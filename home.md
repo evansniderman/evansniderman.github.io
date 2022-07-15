@@ -2,5 +2,5 @@
 
 To my webpage.  
 
-[Essays](www.evansniderman.com/essays)
+[Essays](essays)
 
