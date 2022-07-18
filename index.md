@@ -7,6 +7,7 @@ I have created this site as a place to capture, structure, and share thoughts on
 ***
 
 [Travel and Trail]({{ 'travel' | relative_url }})
+
 ***
 
 [Links and Resources]({{ 'links' | relative_url }})

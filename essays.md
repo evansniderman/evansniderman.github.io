@@ -1,7 +1,4 @@
-Essays
-------
-
-[distance]({{ 'distance' | relative_url }})
+[distance]({{ 'essays/distance' | relative_url }})
 
 dogs
 
