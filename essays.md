@@ -1,9 +1,7 @@
----
-layout: page
-title: Essays
----
+Essays
+------
 
-distance
+[distance]({{ 'distance' | relative_url }})
 
 dogs
 
