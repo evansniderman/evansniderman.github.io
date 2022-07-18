@@ -1,5 +1,6 @@
-page.title:evansniderman.com
--
+---
+title: evansniderman.com
+---
 
 
 
