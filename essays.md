@@ -1,3 +1,7 @@
+---
+title: Essays
+---
+
 [distance]({{ 'essays/distance' | relative_url }})
 
 dogs
