@@ -11,3 +11,5 @@ investing
 paradoxes in investing
 
 style vs. substance
+
+appreciation vs. dissatisfaction
