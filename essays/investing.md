@@ -59,3 +59,5 @@ No credible piece on investing can be written that leaves out an homage to compo
 * It takes 7 years at 7% per year to double with 4% growth and reinvestment at same rate of return.  It will take 11 years to triple and in 28 years will be worth 19.2x.  
 
 Much like low prices, compounding shortens the amount of time it takes to achieve a given return and amplifies returns over a period of time.  One additional caveat:  compounding only works when there is something to be compounded.  An asset must make money in a given period and that money, when added to the original principal, must be reinvested in a profitable enterprise in order for compounding to work its magic.  Unprofitable enterprises have no such compounding potential until they become profitable.  
+
+ⓒ 2022

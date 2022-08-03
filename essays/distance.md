@@ -21,3 +21,5 @@ But there is good news.  Appropriately refined, our yardsticks can be incredibly
 * Recognition that mental distances decrease over time:  people will keep setting new records, new technologies will enable increased productivity, travel will become more efficient, etc. 
 
 My dog wants to know what all this means for his future permission to roam far and wide on our next run.  Sadly for him, I will continue to err on the side of caution, keeping him in my sights.  But for me, this consideration gives more comfort that he is nearer and more easily retrieved than that deep part of the lake might suggest.  
+
+ⓒ 2022 
