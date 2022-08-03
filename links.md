@@ -2,6 +2,8 @@
 title: Links and Resources
 ---
 
+[The Superinvestors of Graham-and-Doddsville](https://www8.gsb.columbia.edu/articles/columbia-business/superinvestors)
+
 [Worldly Wisdom from Charlie Munger](https://25iq.com/quotations/charlie-munger/)
 
 [Don't Fight the Fed:  CME FedWatch Tool](https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html)
