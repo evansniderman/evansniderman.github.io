@@ -4,11 +4,12 @@ title: Essays
 
 [distance]({{ 'essays/distance' | relative_url }})
 
-dogs
 
-investing
+[investing]({{ 'essays/investing' | relative_url }})
 
 paradoxes in investing
+
+dogs
 
 style vs. substance
 
