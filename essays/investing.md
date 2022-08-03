@@ -5,7 +5,7 @@ Fair warning:  One of the best pieces of advice in investing is to learn from ot
 
 --
 
-Investing is simple, but it’s not easy.  It’s simply the exchange of money for assets — easy enough, right?  Unfortunately, that’s where all the simplicity ends.  The challenge lies in understanding _how much_ money and for _which_ assets.  Then, perhaps an even bigger challenge, in acting in accord with that understanding.  
+Investing is simple, but it’s not easy.  It’s simply the exchange of money for assets — easy enough, right?  Unfortunately, that’s where all the simplicity ends.  The challenge lies in understanding _how much_ money and for _which_ assets.  Then, perhaps an even bigger challenge, in acting consistent with that understanding.  
 
 __Understanding Investment Quality:  Price and Value__
 
