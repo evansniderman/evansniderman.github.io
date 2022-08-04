@@ -7,7 +7,7 @@ It’s nearly impossible for anyone to know how the future will unfold on a macr
 
 __The way to make money is to care the least about having it__ 
 
-Investing is the eschewing of money for assets.  If you are too attached to money, you will never part with it.  In other words, you’ll never truly invest it.  Furthermore, prices never go up in a straight line, so if you are upset by the notion of losing money, you are destined to be disappointed.  However, a keen focus on spending those resources productively will result in the greatest gains.
+Investing is the eschewing of money for assets.  If you are too attached to money, you will never part with it.  In other words, you’ll never truly invest it.  Furthermore, prices never go up in a straight line, so if you are upset by the notion of losing money, you are destined to be disappointed.  However, a keen focus on spending those resources productively will result in the greatest gains.  In fact, only those who are conditioned to repeatedly think this way can benefit from the wonders of compound interest, which is the key to long-term results.
 
 __Investors help themselves the most by helping others the most__
 
