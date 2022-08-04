@@ -18,3 +18,5 @@ I have created this site as a place to capture, structure, and share thoughts on
 ***
 
 [Links and Resources]({{ 'links' | relative_url }})
+
+<footer></footer>
