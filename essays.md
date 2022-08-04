@@ -7,7 +7,7 @@ title: Essays
 
 [investing]({{ 'essays/investing' | relative_url }})
 
-paradoxes in investing
+[paradoxes in investing]({{ 'essays/paradoxes-in-investing' | relative_url }})
 
 dogs
 
