@@ -9,7 +9,7 @@ Trail:  [The Enchantments](https://www.alltrails.com/trail/us/washington/the-enc
 
 Distance:  20.5 mi.
 
-Notes:  Two-day backcountry excursion through all the lakes.  Beautiful trail with river crossings and plenty of elevation gain, especially Asgard Pass.  A couple of bear sightings and encounters with mountain goats.  Lots of mosquitoes during the summer but look forward to visiting Colchuk Lake again!
+Notes:  Two-day backcountry excursion through all the lakes.  Beautiful trail with river crossings and plenty of elevation gain, especially Asgard Pass.  A couple of bear sightings and encounters with mountain goats.  Lots of mosquitoes during the summer -- next time, bring a rain jacket and mosquito net to keep them out.  Look forward to visiting Colchuk Lake again!  
 
 ![Enchantments 1](F461D2E3-57D7-4182-BAB9-1BDB7C9997A5_1_105_c.jpeg)
 Colchuk with a view of Asgard to the left
