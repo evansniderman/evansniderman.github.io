@@ -3,9 +3,11 @@ title: Travel and Trail
 ---
 Location:  Mt. Rainier National Park
 
-Trail:  Skyline Loop
+Trail:  [Skyline Loop](https://www.alltrails.com/trail/us/washington/skyline-trail)
 
-Distance:  6 mi.
+Distance:  6.2 mi.
+
+Notes:  Going up to the viewpoint clockwise is the key.  It gives you great views of Rainier on the way up that distract you from the climb, and views of Mt. St. Helens and Mt. Adams to the south on the way back down
 
 ![Skyline Loop](photos/A423F3CC-9210-4199-85BF-05BEFAAC9095_1_105_c.jpeg)
 
