@@ -13,3 +13,8 @@ title: Links and Resources
 [SEC Edgar Company Search](https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html)
 
 [FINRA Margin Statistics](https://www.finra.org/investors/learn-to-invest/advanced-investing/margin-statistics)
+
+[Personal Consumption Expenditures](https://fred.stlouisfed.org/series/PCE)
+
+* [PCE:  Goods](https://fred.stlouisfed.org/series/DGDSRC1)
+* [PCE:  Services](https://fred.stlouisfed.org/series/PCES)
