@@ -11,3 +11,5 @@ title: Links and Resources
 [CME FedWatch Tool](https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html)
 
 [SEC Edgar Company Search](https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html)
+
+[FINRA Margin Statistics](https://www.finra.org/investors/learn-to-invest/advanced-investing/margin-statistics)
